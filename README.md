@@ -9,4 +9,4 @@ https://robochallenge.pl/wp-content/uploads/2021/10/Collaborative_robot_function
 http://therobotguyllc.com/wp-content/uploads/2015/05/KAREL-Programming-Guide.pdf
 
 
--- Jurica Cvetić
+-- Jurica Cvetić, rujan 2022.
