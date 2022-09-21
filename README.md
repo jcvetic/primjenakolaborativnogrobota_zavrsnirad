@@ -1,6 +1,6 @@
 # primjenakolaborativnogrobota_zavrsnirad
 
---sadrži CATIA modele, backup robota, KAREL kod
+-- sadrži CATIA modele, backup robota, KAREL kod
 
 -- korišteni javno dostupni priručnici:
 
